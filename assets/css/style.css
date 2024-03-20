@@ -186,6 +186,7 @@ body {
 @media only screen and (max-width: 415px) {
   .app {
     padding: 10px;
+    text-align: center;
   }
 
   .form-input, .input-data, .form-button {
