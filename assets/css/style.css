@@ -186,7 +186,8 @@ body {
 @media (max-width: 600px) {
   .app, .todo-list {
     padding: 10px;
-    
+    text-align: center;
+    justify-content: center;
   }
 
   .form-input, .input-data, .form-button {
