@@ -183,7 +183,7 @@ body {
 }
 
 
-@media only screen and (max-width: 415px) {
+@media only screen and (max-width: 600px) {
   .app {
     padding: 10px;
     text-align: center;
@@ -191,6 +191,7 @@ body {
 
   .form-input, .input-data, .form-button {
     width: calc(100% - 20px);
+    text-align: center;
   }
 }
 /*# sourceMappingURL=style.css.map */
