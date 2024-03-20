@@ -194,7 +194,7 @@ body {
   .form-input, .input-data, .form-button {
     width: calc(100% - 20px);
     text-align: center;
-    justify-content: center;
+    
   }
 }
 /*# sourceMappingURL=style.css.map */
