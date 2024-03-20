@@ -185,7 +185,7 @@ body {
 
 @media (max-width: 600px) {
   .app, .todo-list {
-    display: flex;
+    display: block;
     padding: 10px;
     text-align: center;
     justify-content: center;
