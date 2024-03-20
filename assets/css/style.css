@@ -185,6 +185,7 @@ body {
 
 @media (max-width: 600px) {
   .app, .todo-list {
+    display: flex;
     padding: 10px;
     text-align: center;
     justify-content: center;
@@ -193,6 +194,7 @@ body {
   .form-input, .input-data, .form-button {
     width: calc(100% - 20px);
     text-align: center;
+    justify-content: center;
   }
 }
 /*# sourceMappingURL=style.css.map */
