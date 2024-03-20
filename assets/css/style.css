@@ -191,6 +191,7 @@ body {
     padding: 10px;
     text-align: center;
     justify-content: center;
+    align-items: center;
   }
 
   .form-input, .input-data, .form-button {
